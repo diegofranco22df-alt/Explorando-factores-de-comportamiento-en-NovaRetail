@@ -9,7 +9,7 @@ Este repositorio contiene un análisis para entender qué factores del comportam
 
 El proyecto incluye 1 dataset:
 
-- '/datasets/novaretail_comportamiento_clientes_2024.csv':
+- `/datasets/novaretail_comportamiento_clientes_2024.csv`:
 
 Contiene información de clientes con ingresos anuales, visitas mes, compras mes, gasto publicidad, etc.
 

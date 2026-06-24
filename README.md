@@ -15,7 +15,7 @@ Contiene información de clientes con ingresos anuales, visitas mes, compras mes
 
 ## 📂 Contenido del repositorio
 
-- 'S8_Student_Version_Project_NovaRetail.ipynb'
+- 'Project_NovaRetail.ipynb'
 → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
 ## ▶ Cómo abrir el notebook en Google Colab
@@ -30,7 +30,7 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `S8_Student_Version_Project_NovaRetail.ipynb`
+1. Abre `Project_NovaRetail.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
